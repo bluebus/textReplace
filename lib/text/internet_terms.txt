@@ -1,0 +1,7 @@
+DNS
+LTE
+SMS
+URL
+Wifi
+Wi-fi
+Astro

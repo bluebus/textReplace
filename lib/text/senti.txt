@@ -1,0 +1,8 @@
+adult=Neutral
+tomorrow=Neutral
+wait=Neutral
+too=Neutral
+soon=Neutral
+explanation=Neutral
+such=Neutral
+still=Neutral
